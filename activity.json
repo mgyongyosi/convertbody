@@ -1,0 +1,19 @@
+{
+  "name": "ConvertBody",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "description": "Converts the JSON body to a map",
+  "author": "Mihály Gyöngyösi <gymisi@gmail.com>",
+  "inputs":[
+    {
+      "name": "input",
+      "type": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "output",
+      "type": "map[string]interface{}"
+    }
+  ]
+}
