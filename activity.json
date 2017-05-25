@@ -1,5 +1,5 @@
 {
-  "name": "ConvertBody",
+  "name": "convert-body",
   "version": "0.0.1",
   "type": "flogo:activity",
   "description": "Converts the JSON body to a map",
